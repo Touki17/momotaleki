@@ -41,7 +41,6 @@
 	--calltxt: #00ffff;
 	
 	--vcbuttons: #ff9cc5;
-
 	
 }
 
@@ -327,7 +326,7 @@ display:none;
 }
 
 .name_fd6364 {
-	color:var(--messagefontcolor) !important;
+	color:var(--guildtxt) !important;
 }
 .icon_fc4f04 {
   color: #4ABDD8;
@@ -556,15 +555,14 @@ background-color:var(--searchbars) !important;
 }
 
 /*Other colors?*/
+.defaultColor_a595eb {
+color:var(--username);	
+}
 .card_a298b8 {
 background-color:var(--topbar) !important;	
 }
 .vc-addon-card {
 background-color:var(--topbar) !important;	
-}
-
-.defaultColor_a595eb {
-color:var(--guildtxt);
 }
 
 /* MAKING YOUR MESSAGES FANCY AND TO THE LEFT*/
