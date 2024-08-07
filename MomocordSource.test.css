@@ -42,7 +42,6 @@
 	
 	--vcbuttons: #ff9cc5;
 
-	--guildtxt: #C0FFEE;
 	
 }
 
@@ -557,9 +556,6 @@ background-color:var(--searchbars) !important;
 }
 
 /*Other colors?*/
-.defaultColor_a595eb {
-color:var(--username);	
-}
 .card_a298b8 {
 background-color:var(--topbar) !important;	
 }
