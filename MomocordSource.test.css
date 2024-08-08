@@ -15,7 +15,7 @@
 	--messagefontcolor: #FFFFFF;
 	
 	--mention: #ffc0cb;
-	
+	e
 	--username: #3F444A;
 	
 	--sidebar: #505C72;
@@ -283,7 +283,7 @@ display:none;
 }
 
 .itemCard_f02fcf  {
-	background-color:var(--topbar);
+	background-color:var(--);
 }
 
 /* Scrollbar */
@@ -305,7 +305,7 @@ display:none;
 /* Channel bar */
 
 .title_a7d72e.container_fc4f04.themed_fc4f04{
-  background-color:var(--topbar) !important;
+  background-color:var(--) !important;
 
 }
 
@@ -394,11 +394,11 @@ display:none;
 	 background-color:var(--callcolor) !important;
 }	
 .wrapper_e06857.header_a3bc57 {
-	 background-color:var(--topbar) !important;
+	 background-color:var(--) !important;
 }	
-.inspector_c3120f.inspector_c6ee36 {
+/* .inspector_c3120f.inspector_c6ee36 {
 	 background-color:var(--topbar) !important;
-}	
+}	*/
 .inner_effbe2.thin_c49869.scrollerBase_c49869{
 	 background-color:var(--searchbars) !important;
 }	
@@ -414,9 +414,9 @@ display:none;
 .stickerCategory_a7a485 {
 	 background-color:var(--searchbars) !important;
 }	
-.wrapper_e06857.packHeader_de4721 {
+/* .wrapper_e06857.packHeader_de4721 {
 		 background-color:var(--topbar) !important;
-}
+}*/
 .standardStickerShortcut_a7a485 {
 	 background-color:var(--topbar) !important;
 }	
