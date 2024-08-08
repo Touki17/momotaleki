@@ -15,7 +15,7 @@
 	--messagefontcolor: #FFFFFF;
 	
 	--mention: #ffc0cb;
-	e
+	
 	--username: #3F444A;
 	
 	--sidebar: #505C72;
@@ -394,11 +394,11 @@ display:none;
 	 background-color:var(--callcolor) !important;
 }	
 .wrapper_e06857.header_a3bc57 {
-	 background-color:var(--) !important;
+	 background-color:var(--topbarguild) !important;
 }	
-/* .inspector_c3120f.inspector_c6ee36 {
+.inspector_c3120f.inspector_c6ee36 {
 	 background-color:var(--topbar) !important;
-}	*/
+}
 .inner_effbe2.thin_c49869.scrollerBase_c49869{
 	 background-color:var(--searchbars) !important;
 }	
@@ -414,9 +414,9 @@ display:none;
 .stickerCategory_a7a485 {
 	 background-color:var(--searchbars) !important;
 }	
-/* .wrapper_e06857.packHeader_de4721 {
-		 background-color:var(--topbar) !important;
-}*/
+.wrapper_e06857.packHeader_de4721 {
+		 background-color:var(--topbarguild) !important;
+}
 .standardStickerShortcut_a7a485 {
 	 background-color:var(--topbar) !important;
 }	
